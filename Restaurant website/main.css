@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#home{
+   background-image: url(img/shutterstock_277750193.jpg);
+   height: 600px;
+    background-size: 100% 100%;
+}
+.navbar{
+    background-color: rgba(0, 0,0, 0.6);
+    height: 70px;
+}
+.caption{
+   
+   text-align: center;
+   margin-top: 50px;
+   color: #fff;
+   
+
+}
+.caption p{
+    margin: 20px 0;
+    font-size: 22px;
+}
+.caption .btn1 , .btn2{
+    padding: 10px 15px;   
+    border: none;  
+
+}
+.btn1{
+    background-color:burlywood;
+}
+.btn2{
+    background-color:#fff;
+}
+.about-img{
+    background-color: bisque;
+    width: 40%;
+    float: left;
+}
+.about-img img{
+    width: 100%;
+}
+.about-info{
+   margin-top: 60px;
+   width: 60%;
+   float: left;
+   text-align: center;
+}
+.about-info p{
+    margin: 50px 0;
+    padding: 0 50px;
+    line-height: 30px;
+}
+.about-info h3{
+    margin-top: 40px;
+}
+.about-info button{
+    background-color: transparent;
+    padding: 10px 15px;
+    border: #000 solid 3px;
+}
+.clr{
+    clear: both;
+}
+
+.meal{
+    margin-top: 30px;
+    text-align: center;
+    width: 25%;
+    float: left;
+
+}
+.meal img{
+border-radius: 50%;
+}
+.brdr{
+    width: 90px;
+    height: 4px;
+    background-color: #09c;
+    margin: auto;
+}
+.meal p
+{
+    padding: 20px 20px;
+
+}
+#layer{
+    height: 400px;
+    background-image: url(img/shutterstock_277750193.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.navbar img{
+    width: 100px;
+    float: left;
+}
+.links{
+float: right;
+}
+.links ul{
+    list-style-type: none;
+}
+.links ul li{
+    float: left;
+    padding: 20px;
+}
+.navbar a{
+    color: #fff;
+    text-decoration: none;
+
+}
+

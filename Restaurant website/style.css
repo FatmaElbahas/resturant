@@ -1,0 +1,52 @@
+.clr{
+    clear: both;
+}
+#contact{
+    background-color:#fff;
+    height: 600px;
+}
+#contact h4{
+    padding: 40px;
+    font-size: 40px;
+    text-align: center;
+}
+.login{
+    width: 70%;
+    height: 400px;
+    background-color: #fff;
+    text-align: center;
+    margin: 20px auto;
+}
+.log-name input{
+    width: 400px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid grey;
+}
+.log-subject input{
+    width: 800px;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid grey;
+    margin-top: 10px;
+}
+.log-message input{
+    width: 800px;
+    height: 80px;
+    border-radius: 8px;
+    border: 1px solid grey;
+    margin-top: 10px;
+}
+.button{
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.button .but{
+    background-color: #ff305b;
+    color: #ffffff;
+    padding: 18px 13px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 250px;
+}
